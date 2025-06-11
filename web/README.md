@@ -50,8 +50,8 @@ O aplicativo Brev.ly Web oferece:
 ## Instalação
 
 ```bash
-git clone https://github.com/grasielaGomes/brevly-app.git
-cd brevly-app/web
+git clone https://github.com/JoaoPauloGS/brevly.git
+cd brevly/web
 pnpm install
 ```
 
