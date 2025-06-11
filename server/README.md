@@ -80,9 +80,9 @@ DATABASE_URL=postgres://user:pass@db:5432/brevly
 PORT=3333
 CLOUDFLARE_ACCOUNT_ID=<seu-account-id>
 CLOUDFLARE_ACCESS_KEY_ID=<key>
-CLOUDFLARE_ACCESS_KEY_SECRET=<secret>
+CLOUDFLARE_SECRET_ACCESS_KEY=<secret>
 CLOUDFLARE_BUCKET=<nome-do-bucket>
-PUBLIC_URL=https://<conta>.r2.cloudflarestorage.com
+CLOUDFLARE_PUBLIC_URL=https://<conta>.r2.cloudflarestorage.com
 ```
 
 ---
